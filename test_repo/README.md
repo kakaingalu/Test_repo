@@ -1,1 +1,1 @@
-This is practice file to test my knowledge in programming
+This folder contains practise sub - folders to test my knowledge in programming
